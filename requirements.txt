@@ -1,0 +1,11 @@
+pyspark
+gdown
+numpy
+pandas
+torch
+scikit-learn
+scipy
+myfm
+lightgbm
+scikit-surprise
+numba

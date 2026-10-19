@@ -1,0 +1,11 @@
+/data_train.csv
+/sampleSubmission.csv
+/predictions/
+/final_submission.csv
+/submission*.csv
+/*_submission.csv
+*.npz
+*.npy
+__pycache__/
+.ipynb_checkpoints/
+.venv/
